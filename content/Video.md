@@ -4,7 +4,7 @@ date: 2018-04-01T14:29:43+02:00
 draft: true
 ---
 
-Podívejte se na video *The Mandela Effect: A Critical Analysis*
+Podívejte se na ilustrační video *The Mandela Effect: A Critical Analysis*
 
 <!--more-->
 
